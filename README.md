@@ -1,9 +1,9 @@
-📊 Student Performance Analysis – Portuguese Dataset
+📊 **Student Performance Analysis – Portuguese Dataset**
 📌 Project Overview
 
 This project analyzes the Student Performance dataset (649 records) using Power BI to uncover key factors influencing student grades (G1, G2, G3). The dashboard provides insights into the impact of family support, absences, failures, and parental background on final outcomes.
 
-🛠 Tools & Skills Used
+🛠 **Tools & Skills Used**
 
 Power BI – Data modeling, DAX measures, and dashboard design
 
@@ -11,7 +11,7 @@ Data Visualization – Interactive charts (KPIs, scatter plots, pie charts, heat
 
 Data Analysis – Statistical insights and correlations
 
-📈 Key KPIs
+📈 **Key KPIs**
 
 Average of G1: 11.40 (Min = 0, Max = 19)
 
@@ -19,7 +19,7 @@ Average of G2: 11.57 (Min = 0, Max = 19)
 
 Average of G3: 11.91 (Min = 0, Max = 19)
 
-🔑 Insights
+🔑 **Insights**
 
 Students with family support (famsup) scored higher (Avg G3 = 12.06) vs those without (11.67).
 
